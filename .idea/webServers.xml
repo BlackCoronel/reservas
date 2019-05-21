@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="48a4f376-8662-4899-85e7-d0ebd3102c8f" name="tunintruck" url="tunintruck.es">
+        <fileTransfer host="ftp.tuningtruck.es" port="21" rootFolder="/domains/tuningtruck.es/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
